@@ -1,4 +1,4 @@
-# Traffic-Monitoring-in-Bangaladesh
+# EcoMonitor
 
 ## Overview
 This project aims to develop an intelligent traffic monitoring system for Bangladesh using computer vision and deep learning techniques. The system will analyze real-time traffic conditions, detect congestion, and identify rule violations to enhance road safety and efficiency.request dataset : [Download Dataset](https://www-nisala97.vercel.app/contact)
