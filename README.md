@@ -13,8 +13,8 @@ Data Visualization: Displays traffic insights using interactive dashboards.
 
 ## Technologies Used
 Programming Language: Python
-Deep Learning Frameworks: TensorFlow, PyTorch
-Computer Vision: OpenCV, YOLO
+Deep Learning Frameworks: PyTorch
+Computer Vision: YOLO
 Web Technologies: Flask, Streamlit for dashboard visualization
 Database: PostgreSQL / MongoDB (for storing traffic data)
 
